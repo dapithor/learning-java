@@ -5,6 +5,7 @@ Repo to learn programming in Java
 - Basic Java programming
 - Streams
 - Modules
+- Data Structures
 - Best Practices
 
 ### Basic Java
@@ -12,5 +13,7 @@ Repo to learn programming in Java
 ### Streams
 
 ### Modules
+
+### Data-Structures
 
 ### Best-Practices
