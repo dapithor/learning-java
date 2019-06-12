@@ -10,6 +10,8 @@ Repo to learn programming in Java
 
 ### Basic Java
 
+### Functional
+
 ### Streams
 
 ### Modules
